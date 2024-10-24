@@ -6,6 +6,8 @@
     "glmr",
     "Hozza",
     "HRMP",
+    "iconify",
+    "intlify",
     "Karura",
     "kodadot",
     "Kusama",
@@ -18,10 +20,14 @@
     "persistedstate",
     "Pichiu",
     "pinia",
+    "polkadot",
     "rmrk",
     "snek",
     "statemine",
+    "tailwindcss",
+    "unplugin",
     "vicons",
+    "vueuse",
     "westmint"
   ]
 }
